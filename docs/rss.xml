@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://mnlaw-lawecon-conf.netlify.app/">
+  <channel>
+    <title>Law &amp; Economics Conference</title>
+    <link>https://mnlaw-lawecon-conf.netlify.app/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Andrew Torrance</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/andrew-torrance</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Andrew Torrance&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:44:45-06:00" title="Friday, February 14, 2020 - 05:44" class="datetime"&gt;Fri, 02/14/2020 - 05:44&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;University of Kansas School of Law &lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:44:45 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">126 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Thomas Talhelm</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/thomas-talhelm</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Thomas Talhelm&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:41:51-06:00" title="Friday, February 14, 2020 - 05:41" class="datetime"&gt;Fri, 02/14/2020 - 05:41&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;University of Chicago Booth School of Business&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;br&gt;
+Thomas Talhelm is an Assistant Professor of Behavior Science at the University of Chicago Booth School of Business, where he studies how culture affects the way we behave. He is studying how rice and wheat agriculture have given northern and southern China two very different cultures, including whether people move chairs in Starbucks.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;That all started in 2007, when Princeton in Asia sent Talhelm to teach high school in Guangzhou. Since then, he's lived in China for four years, most recently on a 2012-2013 Fulbright scholarship and as an NSF Graduate Research Fellow.&lt;/p&gt;
+
+&lt;p&gt;​Also studied is how liberal culture in the United States is more individualistic, and how making people think more analytically increases support for liberal social policies, whereas thinking holistically increases support for conservative policies.&lt;/p&gt;
+
+&lt;p&gt;Talhelm has worked as a freelance journalist based in Beijing, and founded Smart Air, a social enterprise to help people in China breathe clean air without shelling out thousands of dollars for expensive purifiers. Read more in the Atlantic article "&lt;a href="https://www.theatlantic.com/china/archive/2013/08/one-low-cost-safeguard-while-living-in-toxic-china/278352/" target="_blank"&gt;One Low-Cost Safeguard While Living In 'Toxic' China&lt;/a&gt;."&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_portrait_image" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-portrait-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-portrait-image field--type-image field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://mnlaw-lawecon-conf.netlify.app/sites/default/files/styles/folwell_third/public/2020-02/Talhelm_Tom.png?itok=9innSaPS" width="368" height="245" alt="Thomas Talhelm, University of Chicago Booth School of Business " typeof="foaf:Image" class="image-style-folwell-third"&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:41:51 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">121 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Eugene Soltes</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/eugene-soltes</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Eugene Soltes&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:38:13-06:00" title="Friday, February 14, 2020 - 05:38" class="datetime"&gt;Fri, 02/14/2020 - 05:38&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;Harvard Business School &lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;br&gt;
+Eugene Soltes is the Jakurski Family Associate Professor of Business Administration at Harvard Business School where his research focuses on corporate misconduct and fraud, and how organizations design cultures and compliance systems to confront these challenges. He teaches in several of the school’s executive education programs and was the recipient of the Charles M. Williams Award for outstanding teaching.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:38:13 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">116 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Judge Jed Rakoff</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/jed-rakoff</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Judge Jed Rakoff&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:36:20-06:00" title="Friday, February 14, 2020 - 05:36" class="datetime"&gt;Fri, 02/14/2020 - 05:36&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;Senior Judge of the United States District Court for the Southern District of New York&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;br&gt;
+Jed S. Rakoff has served since March 1996 as a U.S. District Judge for the Southern District of New York. He frequently sits by designation on the 2 nd and 9 th Circuit Courts of Appeals. His most noteworthy decisions have been in the areas of securities law and criminal law. He is an Adjunct Professor at both Columbia Law School and NYU Law School, and also teaches at Berkeley Law School and the University of Virginia Law School. He has written over 170 published articles, 740 speeches, and 1800 judicial opinions, and has co-authored 5 books. He is a regular contributor to the New York Review of Books.&lt;/p&gt;
+
+&lt;p&gt;Judge Rakoff holds a B.A. degree from Swarthmore College (1964), an M.Phil. degree from Oxford University (Balliol, 1966), and a J.D. degree from Harvard Law School (1969). He clerked for Hon. Abraham L. Freedman, US Court of Appeals, 3d Circuit. From 1973-80, he served as an Assistant United States Attorney in the Southern District of New York, the last two years as Chief of Business &amp;amp;amp; Securities Fraud Prosecutions. From 1980-95, he was a litigation partner at two large law firms in New York.&lt;/p&gt;
+
+&lt;p&gt;Judge Rakoff served on the National Commission on Forensic Science (2013-17) and as co-chair of the National Academy of Science’s Committee on Eyewitness Identification. He served on the New York City Bar Association’s Executive Committee and was chair of the Association’s Nomination, Honors and Criminal Law Committees. He was Chair of the Second Circuit’s Bankruptcy Committee, and of the Southern District of New York’s Grievance Committee and Criminal Justice Advisory Board. He served on Swarthmore College’s Board of Managers, on the Governance Board of the MacArthur Foundation’s Project on Law and Neuroscience, and on the Committee on the Development of the 3 rd Edition of the Manual on Scientific Evidence. He assisted the U.S. Government in the training of foreign judges in Azerbaijan, Bahrain, Bosnia, Dubai, Egypt, Iraq, Kuwait, Maldives, Morocco, Saudi Arabia, Tunisia, and Turkey. He is a Member of the American Academy of Arts and Sciences and the American Law Institute. He is a Judicial Fellow of the American College of Trial Lawyers and the American Board of Criminal Lawyers. Among other awards, he received in 2018 the Federal Bar Council’s Learned Hand Medal for Excellence in Federal Jurisprudence.&lt;/p&gt;
+
+&lt;p&gt;Judge Rakoff is married to Dr. Ann Rakoff, a child development specialist. They have three daughters and two grandsons. Judge Rakoff has officiated at over 70 weddings. He is the author of numerous lyrics and humorous poems, several of which have been published. His and his wife’s hobby is ballroom dancing. In 2014, Judge Rakoff was listed by Fortune Magazine as one of the World’s 50 Greatest Leaders.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_portrait_image" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-portrait-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-portrait-image field--type-image field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://mnlaw-lawecon-conf.netlify.app/sites/default/files/styles/folwell_third/public/2020-02/Rakoff_Jed.jpg?itok=5zaNTZR3" width="368" height="522" alt="Judge Jed Rakoff, Senior Judge of the United States District Court for the Southern District of New York " typeof="foaf:Image" class="image-style-folwell-third"&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:36:20 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">111 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Joe McGrath</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/joe-mcgrath</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Joe McGrath&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:35:07-06:00" title="Friday, February 14, 2020 - 05:35" class="datetime"&gt;Fri, 02/14/2020 - 05:35&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;University College Dublin Sutherland School of Law&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;br&gt;
+An Irish Research Council Scholar, Joe completed his PhD on corporate and financial regulation, having previously graduated with a first class honours law degree from University College Cork, Ireland. His first monograph was entitled ‘Corporate and White Collar Crime in Ireland: A New Architecture of Regulatory Enforcement’. His second book, which he edited and co-authored, is entitled 'White Collar Crime in Ireland: Law and Policy'. He publishes in the leading Irish and European journals in his fields. Joe teaches banking law, corporate governance, white-collar crime, and comparative business regulation at University College Dublin. He also coordinates the Advanced Diploma in Corporate, White-Collar and Regulatory Crime at the Honorable Society of King's Inns.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_portrait_image" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-portrait-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-portrait-image field--type-image field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://mnlaw-lawecon-conf.netlify.app/sites/default/files/styles/folwell_third/public/2020-02/McGrath_Joe.jpg?itok=e3M1I7Iw" width="368" height="271" alt="Joe McGrath, University College Dublin Sutherland School of Law" typeof="foaf:Image" class="image-style-folwell-third"&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:35:07 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">106 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Brett McDonnell</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/brett-mcdonnell</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Brett McDonnell&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:32:37-06:00" title="Friday, February 14, 2020 - 05:32" class="datetime"&gt;Fri, 02/14/2020 - 05:32&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;University of Minnesota Law School&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;br&gt;
+Brett McDonnell received his B.A. in economics and political science, magna cum laude, in 1985 from Williams College, where he was a member of Phi Beta Kappa, was a Herschel Smith Fellow for two years of study at Cambridge University, and received several prizes for his academic work. He received his M.Phil. in economics from Emmanuel College, Cambridge University, in 1987 and his Ph.D. in economics from Stanford University in 1995. Professor McDonnell received his J.D. from the Boalt Hall School of Law, University of California at Berkeley, in 1997. At Boalt Hall he was a member of the Order of the Coif, the California Law Review, and the Berkeley Women’s Law Journal. He was the recipient of the John M. Olin scholarship and a Moot Court best brief award.&lt;/p&gt;
+
+&lt;p&gt;Professor McDonnell clerked for The Honorable Alex Kozinski of the United States Court of Appeals for the Ninth Circuit from 1997 to 1998. He then practiced as an associate at Howard, Rice, Nemerovski, Canady, Falk &amp;amp; Rabkin in San Francisco, where he concentrated on general corporate counseling and public offerings and acquisitions. He started teaching at the University of Minnesota in 2000. He visited at the University of California, Hastings College of the Law, in 2004 and the University of San Diego School of Law in 2005. He was the 2005 Julius E. Davis Professor of Law.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_portrait_image" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-portrait-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-portrait-image field--type-image field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://mnlaw-lawecon-conf.netlify.app/sites/default/files/styles/folwell_third/public/2020-02/McDonnel_Brett.png?itok=-Bkg3aXV" width="220" height="220" alt="Brett McDonnell, University of Minnesota Law School" typeof="foaf:Image" class="image-style-folwell-third"&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:32:37 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">101 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Andrew Lo</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/andrew-lo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Andrew Lo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:30:54-06:00" title="Friday, February 14, 2020 - 05:30" class="datetime"&gt;Fri, 02/14/2020 - 05:30&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;MIT Sloan School of Management&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;br&gt;
+Andrew W. Lo is the Charles E. and Susan T. Harris Professor at the MIT Sloan School of Management, the director of MIT’s Laboratory for Financial Engineering, a principal investigator at MIT’s Computer Science and Artificial Intelligence Lab, and an external professor at the Santa Fe Institute. He received a B.A. in economics from Yale University and an A.M. and Ph.D. in economics from Harvard University. His most recent research focuses on systemic risk in the financial system; evolutionary approaches to investor behavior, bounded rationality, and financial regulation; and applying financial engineering to develop new funding models for biomedical innovation.&lt;/p&gt;
+
+&lt;p&gt;Lo has published extensively in academic journals (see http://alo.mit.edu) and his most recent book is Adaptive Markets: Financial Evolution at the Speed of Thought. His awards include Batterymarch, Guggenheim, and Sloan Fellowships; the Paul A. Samuelson Award; the Eugene Fama Prize; the IAFE-SunGard Financial Engineer of the Year; the Global Association of Risk Professionals Risk Manager of the Year; one of TIME’s “100 most influential people in the world”; and awards for teaching excellence from both Wharton and MIT.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_portrait_image" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-portrait-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-portrait-image field--type-image field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://mnlaw-lawecon-conf.netlify.app/sites/default/files/styles/folwell_third/public/2020-02/Lo_Andrew.jpg?itok=HWDv-0Lg" width="368" height="552" alt="Andrew Lo, MIT Sloan School of Management" typeof="foaf:Image" class="image-style-folwell-third"&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:30:54 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">96 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Vice Chancellor Travis Laster</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/travis-laster</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Vice Chancellor Travis Laster&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:27:06-06:00" title="Friday, February 14, 2020 - 05:27" class="datetime"&gt;Fri, 02/14/2020 - 05:27&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;Vice Chancellor on the Court of Chancery of the State of Delaware&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;br&gt;
+J. Travis Laster is a Vice Chancellor on the Court of Chancery of the State of Delaware. He received his A.B summa cum laude from Princeton University and his J.D. and M.A. from the University of Virginia, where he served on the Virginia Law Review, was a member of the Order of the Coif, and received the Law School Alumni Association Award for Academic Excellence.&lt;/p&gt;
+
+&lt;p&gt;Prior to his appointment, he was one of the founding partners of Abrams &amp;amp; Laster LLP. While in private practice, he specialized in litigation involving Delaware corporations and other business entities, and advising on transactional matters carrying a significant risk of litigation. He also wrote and spoke frequently on aspects of business law. Before forming Abrams &amp;amp; Laster, he was a director of Richards, Layton &amp;amp; Finger P.A. Before joining Richards Layton &amp;amp; Finger, he clerked for the Honorable Jane R. Roth of the United States Court of Appeals for the Third Circuit. He is a member of the American Bar Association, Delaware State Bar Association, and the Rodney Inn of Court.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_portrait_image" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-portrait-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-portrait-image field--type-image field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://mnlaw-lawecon-conf.netlify.app/sites/default/files/styles/folwell_third/public/2020-02/Super%20Updated%20Photo%20Laster.jpg?itok=e_Hozlgb" width="368" height="460" alt="Vice Chancellor Travis Laster, Vice Chancellor, Court of Chancery of the State of Delaware" typeof="foaf:Image" class="image-style-folwell-third"&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:27:06 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">91 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Leo Katz</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/leo-katz</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Leo Katz&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:24:09-06:00" title="Friday, February 14, 2020 - 05:24" class="datetime"&gt;Fri, 02/14/2020 - 05:24&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;University of Pennsylvania Carey Law School&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;br&gt;
+Leo Katz’s work focuses on criminal law and legal theory more generally. By connecting criminal law, moral philosophy, and the theory of social choice, he tries to shed light on some of the most basic building block notions of the law — coercion, deception, consent, and the use and abuse of legal stratagems, among others. Katz is the author of several books: Bad Acts and Guilty Minds: Conundrums of the Criminal Law (Chicago, 1987); Ill-Gotten Gains: Evasion, Blackmail, Fraud and Kindred Puzzles of the Law (Chicago, 1996); and most recently Why the Law Is So Perverse (Chicago, 2011), which he researched with the support of a Guggenheim Fellowship. Together with Stephen Morse and Michael Moore, he edited Foundations of the Criminal Law (Oxford,1999).&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_portrait_image" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-portrait-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-portrait-image field--type-image field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://mnlaw-lawecon-conf.netlify.app/sites/default/files/styles/folwell_third/public/2020-02/Katz_Leo.png?itok=SbyA0Enw" width="256" height="253" alt="Leo Katz, University of Pennsylvania Carey Law School" typeof="foaf:Image" class="image-style-folwell-third"&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:24:09 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">86 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+<item>
+  <title>Claire Hill</title>
+  <link>https://mnlaw-lawecon-conf.netlify.app/speakers/claire-hill</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Claire Hill&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="en" about="https://mnlaw-lawecon-conf.netlify.app/user/6" typeof="schema:Person" property="schema:name" datatype&gt;minor049&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2020-02-14T05:18:39-06:00" title="Friday, February 14, 2020 - 05:18" class="datetime"&gt;Fri, 02/14/2020 - 05:18&lt;/time&gt;
+&lt;/span&gt;
+
+
+&lt;div class="panel-display brenham-flipped clearfix"&gt;
+
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-12 radix-layouts-header panel-panel"&gt;
+        &lt;div&gt;
+          
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class="row"&gt;
+      &lt;div class="col-md-8 radix-layouts-content panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_position" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-position"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-position field--type-string field--label-hidden field__item"&gt;University of Minnesota Law School&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_biography" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-biography"&gt;
+  
+    
+      
+            &lt;div class="clearfix text-formatted field field--name-field-dl-biography field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Professor Claire A. Hill joined the University of Minnesota Law School faculty in 2006 after a year as a visiting professor. She teaches corporate law, mergers and acquisitions, contracts, and a seminar in law and economics. She is the founding director of the Law School’s Institute for Law and Rationality, and the associate director of its Institute for Law and Economics. She is also an affiliated faculty member of the University’s Center for Cognitive Sciences. Professor Hill received her B.A. and M.A. in philosophy from the University of Chicago, her J.D., &lt;em&gt;summa cum laude&lt;/em&gt;, from American University, Washington College of Law, where she was an Olin Fellow. Before becoming a law professor, she practiced corporate law at several law firms including Milbank, Tweed, Hadley &amp;amp; McCloy in New York and Dickstein Shapiro in Washington D.C. She has taught at the law schools of Boston University, George Mason University, Northwestern University, Georgetown University (where she was a Sloan Visiting Professor), and Chicago-Kent (where she was a Freehling Scholar). At Minnesota Law, she was the 2007-08 Julius E. Davis Professor, 2008-09 Vance K. Opperman Research Scholar, and 2009-11 Solly Robins Distinguished Research Fellow before being appointed the James L. Krusemark Chair in Law in 2011.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="col-md-4 radix-layouts-sidebar panel-panel"&gt;
+        &lt;div class="panel-panel-inner"&gt;
+          
+
+&lt;div data-block-plugin-id="field_block:node:dl_biography:field_dl_portrait_image" class="block block-layout-builder block-field-blocknodedl-biographyfield-dl-portrait-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-dl-portrait-image field--type-image field--label-hidden field__item"&gt;  &lt;img loading="lazy" src="https://mnlaw-lawecon-conf.netlify.app/sites/default/files/styles/folwell_third/public/2020-02/hill-claire.jpg?itok=AcANxy0F" width="368" height="368" alt="Professor Claire Hill, University of Minnesota Law School" typeof="foaf:Image" class="image-style-folwell-third"&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    
+&lt;/div&gt;&lt;!-- /.brenham-flipped --&gt;</description>
+  <pubDate>Fri, 14 Feb 2020 11:18:39 +0000</pubDate>
+    <dc:creator>minor049</dc:creator>
+    <guid isPermaLink="false">81 at https://mnlaw-lawecon-conf.netlify.app</guid>
+    </item>
+
+  </channel>
+</rss>
